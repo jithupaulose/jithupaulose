@@ -11,7 +11,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Chirag Sehra, Data Architect & Data Scientist from India
+  Hi, I'm Jithu Paulose, Senior Application Developer
   <br>
   🎓 I graduated from IP University Information Technology Department.
   <br>
